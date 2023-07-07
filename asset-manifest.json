@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/NomadCoders-CoinTracker/static/js/main.b2910e8c.js",
+    "index.html": "/NomadCoders-CoinTracker/index.html",
+    "main.b2910e8c.js.map": "/NomadCoders-CoinTracker/static/js/main.b2910e8c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b2910e8c.js"
+  ]
+}
